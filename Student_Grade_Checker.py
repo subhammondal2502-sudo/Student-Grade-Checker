@@ -1,4 +1,5 @@
 #Student Grade Checker.....
 students_name=input("enter students name : ")
 marks=int(input("enter total marks upto 100 : "))
-
+print(students_name)
+print("total marks : ", marks)
