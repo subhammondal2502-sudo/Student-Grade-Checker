@@ -8,3 +8,6 @@ if marks<0 or marks>100:
 
 elif marks>=90 :
     print("grade : A")
+
+elif marks>=75 and marks<=89 :
+    print("grade : B")
