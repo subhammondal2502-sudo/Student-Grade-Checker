@@ -11,3 +11,6 @@ elif marks>=90 :
 
 elif marks>=75 and marks<=89 :
     print("grade : B")
+
+elif marks>=50 and marks<=74 :
+    print("grade : c")
